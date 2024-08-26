@@ -1,3 +1,5 @@
 # testing-repo
 ## install vs code
-![testing](https://en.wikipedia.org/wiki/National_University_of_Computer_and_Emerging_Sciences#/media/File:National_University_of_Computer_and_Emerging_Sciences_logo.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in
+the Markdown, of an Octocat smiling and raising a
+tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
